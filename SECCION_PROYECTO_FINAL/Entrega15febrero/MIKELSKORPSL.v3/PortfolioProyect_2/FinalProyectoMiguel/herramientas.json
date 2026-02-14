@@ -1,0 +1,69 @@
+[
+    {
+        "tipo": "Normal",
+        "nombre": "martillo",
+        "descripcion": "mango de madera",
+        "ubicacion": "pasillo 1"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "llave inglesa",
+        "descripcion": "tama\u00f1o grande",
+        "ubicacion": "caja 4"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "destornillador",
+        "descripcion": "punta de estrella",
+        "ubicacion": "cajon 2"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "taladro",
+        "descripcion": "percutor 500w",
+        "ubicacion": "estanteria B"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "gato hidraulico",
+        "descripcion": "soporta 2 toneladas",
+        "ubicacion": "zona suelo"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "sierra de calar",
+        "descripcion": "electrica",
+        "ubicacion": "armario 3"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "alicates",
+        "descripcion": "corte universal",
+        "ubicacion": "panel herramientas"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "cinta metrica",
+        "descripcion": "5 metros",
+        "ubicacion": "mesa trabajo"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "juego de vasos",
+        "descripcion": "12 piezas metalicas",
+        "ubicacion": "maletin rojo"
+    },
+    {
+        "tipo": "Normal",
+        "nombre": "llave inglesa",
+        "descripcion": "metal",
+        "ubicacion": "pasillo 5"
+    },
+    {
+        "tipo": "Electrica",
+        "nombre": "Llave especial",
+        "descripcion": "madera",
+        "ubicacion": "pasillo 6",
+        "potencia": "400w"
+    }
+]
